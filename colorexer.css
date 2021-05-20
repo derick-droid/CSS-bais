@@ -1,0 +1,85 @@
+body
+{
+	background-color: silver;
+}
+h1
+{
+	background-color: rgb(169,169,169);
+	color: black;
+	padding: 20px;
+}
+.one
+{
+	background-color: rgb(0,0,170);
+	padding: 10px;
+}
+p.two
+{
+	background-color: rgb(0,0,180);
+	padding: 10px
+}
+p.three
+{
+	background-color: rgb(0,0,200);
+	padding: 10px;
+}
+p.four
+{
+	background-color: rgb(0,0,220);
+	padding: 10px;
+}
+p.five
+{
+	background-color: rgb(0,0,240);
+	padding: 10px;
+}
+p.six
+{
+	background-color: rgb(0,0,260);
+	padding: 10px;
+}
+p.seven
+{
+	background-color: rgb(0,0,280);
+	padding: 10px
+}
+p.eight
+{
+	background-color: rgb(0,100,0);
+	padding: 10px;
+}
+p.nine
+{
+	background-color: rgb(255,160,122);
+	padding: 10px;
+}
+p.ten
+{
+	background-color: rgb(250,128,114);
+	padding: 10px;
+}
+p.eleven
+{
+	background-color: rgb(233,150,122);
+	padding: 10px;
+}
+p.twelve
+{
+	background-color: rgb(240,128,128);
+	padding: 10px;
+}
+p.thirteen 
+{
+	background-color: rgb(205,92,92);
+	padding: 10px;
+}
+p.fourteen
+{
+	background-color: rgb(220,20,60);
+	padding: 10px;
+}
+p.fifteen
+{
+	background-color: rgb(255,0,0);
+	padding: 10px;
+}
