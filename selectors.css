@@ -1,0 +1,31 @@
+*
+/* styling of all elements in the page */
+{
+	font-family: aerial;
+	background-color: pink;
+}
+
+p.importan
+{
+	color: blue;
+}
+#top
+{
+	color: red;
+}
+li> a
+{
+	color: red;
+}
+p a 
+{
+	color: red;
+}
+h1+p
+{
+	color: yellow;
+}
+h1~p
+{
+	color:grey;
+}
