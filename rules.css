@@ -1,0 +1,29 @@
+*
+{
+	font-family: aerial.verdana.sans-serif;
+}
+h1
+{
+	font-family: "courie New".monospace;
+}
+i
+{
+	color: green;
+}
+#important
+{
+	color: red;
+}
+b
+{
+	color: yellow;
+
+}
+b
+{
+	color: purple;
+}
+p#intro
+{
+	font-size: 125%;
+}
