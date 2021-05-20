@@ -1,0 +1,15 @@
+/*color name*/
+h1
+{
+	color: green;
+}
+/* hexcode*/
+h2
+{
+	color: #ee3e80;
+}
+/*RGB COLOR*/
+p
+{
+	color: rgb(50,20,90);
+}
