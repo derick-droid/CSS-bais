@@ -1,0 +1,16 @@
+.credits
+{
+	text-decoration: underline;
+}
+h1
+{
+	text-decoration: none;
+}
+h2
+{
+	text-decoration: blink;
+}
+p
+{
+	text-decoration: line-through;
+}
