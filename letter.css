@@ -1,9 +1,12 @@
-p
+#top:first-letter
 {
-	text-decoration: overline;
-	letter-spacing: 0.3em;
+font-size: 20px;
 }
-h1, h2
+.credits:first-letter
 {
-	word-spacing: 1.4em;
+	font-size: 100px;
+}
+#first:first-line
+{
+	font-size: 120px
 }
