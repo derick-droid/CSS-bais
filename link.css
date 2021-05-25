@@ -1,0 +1,38 @@
+a:link:
+{
+	color: yellow;
+	text-decoration: none;
+}
+a:visited{
+	color: black;
+}
+a:hover:
+{
+	color: yellow;
+}
+a:active
+{
+	color: darkcyan;
+}
+input
+{
+	padding: 6px 7px 3px;
+	color: black;
+	border: 1px solid #665544;
+}
+input.submit:hover
+{
+	color: black;
+}
+input.submit:active
+{
+	color: blue;
+}
+input.text
+{
+	color: #cccccc;
+}
+input.text:focus
+{
+	color: pink;
+}
