@@ -1,13 +1,46 @@
 body
 {
-	font-family: Georgia, times, serif;
+	background-color: rgb(1112,128,144));
+font-family: arial;
 }
-
 h1
 {
-	color: black;
+	color: blue;
+}
+p.intro
+{
+	color: blue;
+}
+a:link
+{
+	text-decoration: none;
+}
+a:hover
+{
+	color: blue;
+}
+a:active
+{
+	color:yellow;
+}
+a:visited
+{
+	color: pink;
+}
+a:focus
+{
+	color: purple;
+}
+h2
+{
+	color: blue;
 }
 p.credits
 {
-	font-family:courie new, monospace;
+	text-indent: 1100px;
+	font-family: verdana;
+}
+#intro
+{
+	color: rgb(112,128,144)); 
 }
