@@ -1,0 +1,20 @@
+div,box
+{
+height: 300px;
+width: 300px;
+background-color: blueviolet;
+}
+p
+{
+    height: 75%;
+    width: 80%;
+    background-color: cadetblue;
+}
+tr.description
+{
+    min-width: 450px;
+    max-width: 650px;
+    margin: opx;
+    padding: 20px;
+    text-align: left;
+}
