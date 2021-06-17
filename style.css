@@ -1,0 +1,48 @@
+p.one
+{
+	border:2px solid blue;
+	border-style: solid;
+
+}
+p.two
+{
+	border:2px solid blue;
+	border-style: dotted;
+}
+p.three
+{
+	border:2px solid blue;
+	border-style: dashed;
+}
+p.four
+{
+	border:2px solid blue;
+	border-style: double;
+}
+p.five
+{
+	border:2px solid blue;
+	border-style: groove;
+}
+p.six
+{
+	border:2px solid blue;
+	border-style: ridge;
+}
+p.seven
+{
+	border:2px solid blue;
+		border-top-style: dotted;
+
+	border-style: inset;
+}
+p.eight
+{
+	border:2px solid blue;
+	border-style: outset;
+}
+p.nine
+{
+	border:2px solid blue;
+	border-style: hidden;
+}
