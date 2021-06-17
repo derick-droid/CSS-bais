@@ -1,0 +1,30 @@
+h2,p
+{
+	width: 1000px;
+	font-size: 40px;
+	line-height: 1.2em;
+}
+h2
+{
+	color: #0088dd;
+border-bottom: 1px solid #0088dd;}
+	
+}
+p
+{
+	min-height: 10px;
+	max-height: 30px
+}
+/*styling the overflow*/
+.one
+{
+overflow: hidden;
+/*overflow: scroll;*/
+
+}
+.two
+
+{
+	
+	overflow: scroll;
+}
