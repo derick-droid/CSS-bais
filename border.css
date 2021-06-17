@@ -1,0 +1,18 @@
+p.one
+{
+	border:1px solid black;
+	border-width: 10px 30px 50px 100px;
+	border-color: red blue green purple;
+}
+p.two
+
+{
+	border:1px solid black;
+	border-width: 10px 20px 80px 120px;
+	border-color: blue yellow green indigo;
+}
+p.three
+{   border:1px solid black;
+	border-width: 10px 30px 70px 150px;
+	border-color: violet grey maroon pink;
+}
