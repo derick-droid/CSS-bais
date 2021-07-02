@@ -1,0 +1,21 @@
+body
+{
+    background-color: azure;
+
+}
+p
+{
+    width: 300px;
+    padding: 20px;
+    margin: 100px;
+    border: solid;
+    border-radius: 3px;
+    border-color: brown;
+}
+.example
+{
+    border:solid;
+    border-radius: 3px;
+    border-color: blue;
+
+}
