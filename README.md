@@ -1,2 +1,2 @@
-# CSS-bais
+# CSS-basics
 css basics 
